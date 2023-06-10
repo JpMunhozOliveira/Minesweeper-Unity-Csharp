@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/resources/images/UnityProjects/" alt="Minesweeper Logo" width="312" height="77">
+    <img src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/resources/images/UnityProjects/MinesweeperLogo.png" alt="Minesweeper Logo" width="312">
   </a>
   <br>
   <a href="#">
