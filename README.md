@@ -1,13 +1,44 @@
 [⬅ Go Back](https://github.com/JpMunhozOliveira)
 
 <div align="center">
-  <a href="#"><img src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/resources/images/Projects/MinesweeperLogo.png" alt="Minesweeper Logo" heigth="100"></a>
+  <img src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/resources/images/Projects/MinesweeperLogo.png?raw=true" alt="Minesweeper Logo" height="100">
+
   <br>
-  <a href="#"><img src="https://skillicons.dev/icons?i=unity,cs"></a>
+
+  <img src="https://skillicons.dev/icons?i=unity,cs" alt="Unity and C#">
 </div>
 
-# Description
+# Minesweeper
 
-This is a thrilling Minesweeper game created using C# in Unity. Minesweeper is a timeless and addictive puzzle game that challenges players to uncover squares on a grid while avoiding hidden mines. Developed with the power of Unity game engine, this rendition of Minesweeper features immersive visuals and engaging gameplay mechanics.
+A classic Minesweeper puzzle game recreated with Unity and C#. Reveal cells, use number clues to locate hidden mines, and clear the board without triggering one.
 
-The objective of the game is to strategically uncover squares, utilizing the numeric clues to deduce the locations of mines. With each successful move, players inch closer to victory, but a single wrong move can result in a catastrophic explosion. The tension builds as players navigate the grid, employing logic and careful reasoning to conquer the challenge. Will you be able to uncover all the squares and emerge victorious, or will you succumb to the treacherous mines that lie beneath the surface? It's time to put your puzzle-solving skills to the test and see if you have what it takes to be a master Minesweeper player in this Unity-powered adaptation. Good luck and happy sweeping!
+## Features
+
+- Configurable board dimensions and mine count.
+- Number clues showing adjacent mines.
+- Flagging to mark suspected mines.
+- Automatic reveal of connected empty cells.
+- Win and game-over detection.
+- Restart the game at any time.
+
+## Controls
+
+- **Left mouse button**: Reveal a cell.
+- **Right mouse button**: Toggle a flag.
+- **R**: Restart the game.
+
+## How to Run
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/JpMunhozOliveira/Minesweeper-Unity-Csharp.git
+   ```
+
+2. Open the `Mineswepper` folder in Unity Hub.
+3. Open the project with Unity `2021.3.16f1`.
+4. Open the `Game` scene and press **Play**.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
